@@ -147,6 +147,7 @@ header {
   background-image: url("picture/heroes\ latest.jpg ");
   background-position: center;
   background-size: cover;
+  position: relative;
 }
 
 .shop-section {
@@ -155,6 +156,9 @@ header {
   flex-direction: column;
   background-color: #f3f3f3;
   padding: 50px 0;
+  position: relative;
+  margin-top:-160px;
+  z-index: 10;
 }
 .shop-images {
   display: grid;
