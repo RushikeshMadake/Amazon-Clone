@@ -144,7 +144,7 @@ header {
 
 .hero-section {
   height: 500px;
-  background-image: url("picture/heroes\ latest.jpg ");
+  background-image: url("assets/hero.jpg");
   background-position: center;
   background-size: cover;
   position: relative;
